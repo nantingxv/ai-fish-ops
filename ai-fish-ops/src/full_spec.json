@@ -1,0 +1,68 @@
+{
+  "bg": "projects/nantingxv-bg/out/nantingxv-bg.mp4",
+  "duration": 313.6,
+  "out": "projects/full_preview.mp4",
+  "crf": 19,
+  "segments": [
+    {
+      "file": "projects/001-opening/out/opening_alpha.mov",
+      "start": 0.0
+    },
+    {
+      "file": "projects/003-notice/out/notice_alpha.mov",
+      "start": 7.8
+    },
+    {
+      "file": "projects/002-title/out/title_alpha.mov",
+      "start": 16.0
+    },
+    {
+      "file": "projects/004-jump/out/jump_alpha.mov",
+      "start": 28.0
+    },
+    {
+      "file": "projects/005-tail/out/tail_alpha.mov",
+      "start": 43.6
+    },
+    {
+      "file": "projects/006-timeline/out/timeline_alpha.mov",
+      "start": 74.1
+    },
+    {
+      "file": "projects/008-axis/out/axis_alpha.mov",
+      "start": 79.8
+    },
+    {
+      "file": "projects/009-summary/out/summary_alpha.mov",
+      "start": 104.8
+    },
+    {
+      "file": "projects/010-ch2/out/ch2_alpha.mov",
+      "start": 124.3
+    },
+    {
+      "file": "projects/011-ch3/out/ch3_alpha.mov",
+      "start": 145.8
+    },
+    {
+      "file": "projects/012-ch4/out/ch4_alpha.mov",
+      "start": 166.8
+    },
+    {
+      "file": "projects/013-ch5/out/ch5_alpha.mov",
+      "start": 204.8
+    },
+    {
+      "file": "projects/014-ch6/out/ch6_alpha.mov",
+      "start": 235.8
+    },
+    {
+      "file": "projects/015-final/out/final_alpha.mov",
+      "start": 267.8
+    },
+    {
+      "file": "projects/016-cost/out/cost_alpha.mov",
+      "start": 300.2
+    }
+  ]
+}
